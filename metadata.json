@@ -1,0 +1,6 @@
+{
+  "name": "YT Queue Manager",
+  "description": "Advanced YouTube downloader with playlist parsing, concurrent queue management, and metadata tagging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
